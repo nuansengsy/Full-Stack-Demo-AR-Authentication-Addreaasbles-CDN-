@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1b3059009dd26b042a0fff5aba6cc867
+  m_SerializeEntries:
+  - m_GUID: 4dc75cc75a55d9d42b8bca443c701d46
+    m_Address: Assets/Prefabs/ItemsInventory/Plate1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kitchen_models
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5d28fab54f66b53429261bc01679025c
+    m_Address: Assets/Prefabs/ItemsInventory/CornFlakes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kitchen_models
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b0f86dce3b7abf1439866c7d34b78727
+    m_Address: Assets/Prefabs/ItemsInventory/Fork.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kitchen_models
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e03e3371d46c28f438ca3e192e38814a
+    m_Address: Assets/Prefabs/ItemsInventory/Apple.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kitchen_models
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e845fd54063b74648906e77c64b1f6df
+    m_Address: Assets/Prefabs/ItemsInventory/Deeppan.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kitchen_models
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eb491494877c8d243bc2ee04b483c1e9
+    m_Address: Assets/Prefabs/ItemsInventory/Glass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kitchen_models
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4c454c53f03507f4b9b49c1581fb587f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9a4c019cbc0fdb24a9436972f4e66e6d, type: 2}
+    - {fileID: 11400000, guid: 9d007467f6671e04eb334a77b561c829, type: 2}
